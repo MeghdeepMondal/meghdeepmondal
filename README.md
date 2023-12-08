@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meghdeepmondal" alt="meghdeepmondal" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **bottle-managment-system**
+- 🔭 I’m currently working on **bottle-management-system**
 
 - 🌱 I’m currently learning **MERN Stack, Android, AI & ML**
 
@@ -30,3 +30,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghdeepmondal&show_icons=true&locale=en&layout=compact" alt="meghdeepmondal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghdeepmondal&show_icons=true&locale=en" alt="meghdeepmondal" /></p>
+<!--Addition-->
+
+<a>
+     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meghdeepmondal&theme=github_dark&show_icons=true" />
+  </a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meghdeepmondal&theme=github_dark&show_icons=true" alt="meghdeepmondal" /></p>
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a>
