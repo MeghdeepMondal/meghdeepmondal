@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<img src="android banner.gif">
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meghdeepmondal" alt="meghdeepmondal" /></a> </p>
 <hr size="25">
-<p><img align="right" alt="Coding" height="250" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
+<p><img align="right" alt="Coding" height="250" width="350" src="hello world.gif"></p>
 
 - 🔭 I’m currently working on **bottle-management-system**
 
