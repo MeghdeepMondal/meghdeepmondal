@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meghdeepmondal" alt="meghdeepmondal" /></a> </p>
 
-<p><img align="right" alt="Coding" height="250" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
+<p><img align="right" alt="Coding" height="150" width="230" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
 
 <hr size="20" color="green"><br>
 
