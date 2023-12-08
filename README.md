@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meghdeepmondal" alt="meghdeepmondal" /></a> </p>
 <hr size="25">
-<p><img align="right" alt="Coding" height="250" width="350" src="hello world.gif"></p>
+<p><img align="right" alt="Coding" height="250" width="300" src="hello world.gif"></p>
 
 - 🔭 I’m currently working on **bottle-management-system**
 
