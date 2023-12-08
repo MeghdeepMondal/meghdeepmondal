@@ -10,20 +10,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghdeepmondal&label=Profile%20views&color=0e75b6&style=flat" alt="meghdeepmondal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meghdeepmondal" alt="meghdeepmondal" /></a> </p>
-<div>
-<p><img align="right" alt="Coding" height="150" width="230" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
-</div>
-<hr size="20" color="green"><br>
-
-<p>
+<hr size="25">
+<p><img align="right" alt="Coding" height="250" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
 
 - 🔭 I’m currently working on **bottle-management-system**
 
 - 🌱 I’m currently learning **MERN Stack, Android, AI & ML**
 
 - 📫 How to reach me **megmond000@gmail.com**
-
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
