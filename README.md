@@ -15,11 +15,15 @@
 
 <hr size="20" color="green"><br>
 
+<p>
+
 - 🔭 I’m currently working on **bottle-management-system**
 
 - 🌱 I’m currently learning **MERN Stack, Android, AI & ML**
 
 - 📫 How to reach me **megmond000@gmail.com**
+
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
