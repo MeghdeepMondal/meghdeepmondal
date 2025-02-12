@@ -13,7 +13,7 @@
 <hr size="25">
 <p><img align="right" alt="Coding" height="250" width="300" src="hello-world.gif"></p>
 
-- 🔭 I’m currently working on **bottle-management-system**
+- 🔭 I’m currently working on **Some NEXT JS Projects**
 
 - 🌱 I’m currently learning **MERN Stack, Android, AI & ML**
 
